@@ -8,8 +8,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <h1 align="center">Hi there, I'm Marat
-<img src="https://github.com/Clever1mistory/Clever1mistory/blob/main/header.png?raw=true" height="32"/></h1>
+<img src="https://github.com/Clever1mistory/Clever1mistory/blob/main/header.png?raw=true" height="1000"/></h1>
 <h3 align="center">I am a self-taught developer and geologist 🇷🇺</h3>
     <div class="container">
       <img src="blob:https://web.telegram.org/4a7a1088-5879-431b-b7df-fe52c63e3d74" alt="Profile Picture">
