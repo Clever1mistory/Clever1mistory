@@ -7,7 +7,7 @@
   </head>
   <body>
 <img src="https://github.com/Clever1mistory/Clever1mistory/blob/main/header.png?raw=true"/></h1>
-<h3 align="center">I am a self-taught developer and geologist 🇷🇺</h3>
+<h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
     <div class="container">
       <img src="https://avatars.githubusercontent.com/u/128373879?v=4" width="100" height="100" alt="Profile Picture">
       <div>
