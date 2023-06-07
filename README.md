@@ -20,34 +20,4 @@
       </div>
     </div>
   </body>
-   <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f1f1f1;
-      }
-      .container {
-        max-width: 960px;
-        margin: 0 auto;
-        padding: 20px;
-        background-color: white;
-        box-shadow: 0 0 10px rgba(0,0,0,0.3);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-wrap: wrap;
-      }
-      img {
-        max-width: 100%;
-        height: auto;
-        margin-bottom: 20px;
-      }
-      h1 {
-        font-size: 2em;
-        margin-top: 0;
-      }
-      p {
-        font-size: 1.2em;
-        line-height: 1.5;
-      }
-    </style>
 </html>
