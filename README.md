@@ -7,11 +7,12 @@
   </head>
   <body>
 <img src="https://github.com/Clever1mistory/Clever1mistory/blob/main/header.png?raw=true"/></h1>
-<h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
-    <div class="container">
+   <div class="container">
       <img src="https://github.com/Clever1mistory/Clever1mistory/assets/128373879/7a74600d-82b2-40e1-ae92-ebacd8c0f446" width="150" height="300" alt="Profile Picture">
  <img src="https://github.com/Clever1mistory/Clever1mistory/assets/128373879/8003b0fe-1fa8-4b1b-9b19-5632f0c73236" width="150" height="300" alt="Profile Picture">
       <div>
+<h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
+   
         <p>I am a self-taught developer. It all started with a simple interest in something new, besides my main profession - geologist. A little later, I started taking freelance orders from friends and students.
 Now I have completely decided to dive into the exciting world of IT technologies and web development in particular. :)</p>
       </div>
