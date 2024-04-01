@@ -10,10 +10,7 @@
 
 
 <h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
-   <div class="container">
-     <img src="https://github.com/Clever1mistory/Clever1mistory/assets/128373879/7a74600d-82b2-40e1-ae92-ebacd8c0f446" width="170" height="300" alt="Profile Picture">
-   </div>   
-      <p> Все началось с простого интереса к чему-то новому, помимо моей основной профессии - геолога.</p>
+  
      <p>I am a self-taught developer. It all started with a simple interest in something new, besides my main profession - geologist.</p>
       </div>
     </div>
