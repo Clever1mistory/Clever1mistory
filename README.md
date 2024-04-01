@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-<img src="https://github.com/Clever1mistory/Clever1mistory/blob/main/header.png?raw=true"></h1>
+
 
 
 <h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
