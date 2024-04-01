@@ -10,7 +10,8 @@
 
 
 <h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
-  
+  <div>
+    <div>
      <p>I am a self-taught developer. It all started with a simple interest in something new, besides my main profession - geologist.</p>
       </div>
     </div>
