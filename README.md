@@ -9,10 +9,10 @@
 
 
 
-<h3 align="center">Self-taught developer and geologist 🇷🇺</h3>
+<h3 align="center">Backend developer and geologist 🇷🇺</h3>
   <div>
     <div>
-     <p>I am a self-taught developer. It all started with a simple interest in something new, besides my main profession - geologist.</p>
+     <p>It all started with a simple interest in something new.</p>
       </div>
     </div>
   
