@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">Backend developer and geologist 🇷🇺</h3>
+<h3 align="center">Backend developer🇷🇺</h3>
   <div>
     <div>
      <p>It all started with a simple interest in something new.</p>
